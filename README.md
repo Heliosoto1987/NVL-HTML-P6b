@@ -11,7 +11,7 @@ Quieres compartir tu lista de películas favoritas con tus amigos. Queréis entr
     <meta charset="utf8">
 
 
-    <h1 style="color:#F5EEF8";><center>Listos para disfrutar una seción de cine</center></h1>
+    <h1 style="color:#F5EEF8";><center>Listos para disfrutar una sesión de cine</center></h1>
     <br></br>
     <br></br>
 
